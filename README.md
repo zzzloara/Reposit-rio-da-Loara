@@ -1,2 +1,2 @@
-# Reposit-rio-da-Loara
+# Repositorio-da-Loara
 Repositório da Loara. :D
