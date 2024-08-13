@@ -1,2 +1,2 @@
-# Repositorio-da-Loara
+# Jogo da Vaquinha
 Repositório da Loara. :D
